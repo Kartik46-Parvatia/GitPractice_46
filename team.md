@@ -1,12 +1,12 @@
-### Team Members
+### "Team Members"
 
 
--# Kartik Parvatia
+- Kartik Parvatia
 
--# Rudra Dholakiya
+- Rudra Dholakiya
 
--# Priyansh Singh
+- Priyansh Singh
 
--# Krishnakant Tiwari
+- Krishnakant Tiwari
 
--# Aarnav Sharma
+- Aarnav Sharma
